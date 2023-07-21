@@ -9,3 +9,7 @@
 - 📫 How to reach me: yong7340@naver.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: There are so many things I want to do, so I have shallow and wide knowledge
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongyong030&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongyong030&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
