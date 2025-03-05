@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on machine vision
+- 🔭 I’m currently working on condensed matter physics
 - 🌱 I’m currently learning physcis
 - 👯 I’m looking to collaborate on AI & Physics Research
 - 🤔 I’m looking for help with feedback
